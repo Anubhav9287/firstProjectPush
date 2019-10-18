@@ -1,0 +1,12 @@
+[
+	{
+		"SNo": 1,
+		"Subject": "Email Subject Test1",
+		"Content": "Email Content Test1"
+	},
+	{
+		"SNo": 2,
+		"Subject": "Email Subject Test2",
+		"Content": "Email Content Test2"
+	}
+]
